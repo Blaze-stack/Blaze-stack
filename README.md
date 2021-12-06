@@ -1,5 +1,5 @@
 ### About me
-Hi i'm Blaze a self tought python dev.
+Hi i'm Blaze a self taught python dev.
 
 i mainly work on automation tools and malware
 
