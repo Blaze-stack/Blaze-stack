@@ -9,7 +9,7 @@ feel free to modify my when ever you want!
 pc = {
 cpu: Ryzen 5 3600,
 gpu: amd Radeon rx 580,
-ran: 16gb,
+ran: 32gb,
 storage: 1tb of ssd's 13tb of hdds}
 
 
