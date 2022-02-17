@@ -3,7 +3,7 @@ Hi i'm Blaze a self taught python dev.
 
 i mainly work on automation tools and malware
 
-feel free to modify my when ever you want!
+feel free to modify my stuffwhen ever you want!
 
 ### Hardware
 pc = {
