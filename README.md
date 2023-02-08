@@ -30,7 +30,6 @@ I work on just about anything but for the past year i have been working on [edie
 - edie trade 5.0, the fith iteration of the edie tading ai
 - edie home assistant, with the joni natural language model and the edie-cam computer vision model
 - lunar & owl crypto curencys 
-- edie encryption public release | $\textcolor{LimeGreen}{\ ͘\ ̻\ ̈́\ ͂\ ̮\ ̛\ ̎\ ̐\ ̈\ ͘\ ̂\ ̐\ ̈\ ̡\ ̤\ ̟\ ̫\ ̫\ ̞\ ̍\ ͌\ ̶\ ̞\ ̎\ ̊\ ͗\ ̠\ ̡\ ͘\ ̻\ ̈́\ ͑\ ͘\ ̻\ ̃\ ̯\ ̮\ ̛\ ̟\ ̐\ ̈\ ͊\ ̄\ ̵\ }$  |
 - edie websie
 - blazedev.xyz revamp
 
