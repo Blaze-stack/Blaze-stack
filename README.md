@@ -33,7 +33,9 @@ I work on just about anything but for the past year i have been working on [edie
 - edie websie
 - blazedev.xyz revamp
 
-
+### 💸 donate
+- if you appreciate what i do please concider donating
+- [Buy me a coffee](https://www.buymeacoffee.com/blazedevv)
 
 ### 📊 stats
 ![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaze-stack&show_icons=true&theme=gruvbox)
