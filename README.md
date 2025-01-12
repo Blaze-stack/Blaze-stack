@@ -40,9 +40,9 @@ I work on just about anything but for the past year i have been working on [edie
 ### 📊 stats
 ![Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaze-stack&show_icons=true&theme=gruvbox)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blaze-stac&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blaze-stac&theme=github_dark&hide_border=true" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze-stac&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blaze-stack&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blaze-stack&theme=github_dark&hide_border=true" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze-stack&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
 </p>
 
 #
