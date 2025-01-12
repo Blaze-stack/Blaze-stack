@@ -1,6 +1,6 @@
 ### 🐢 **about me**
-Hi i'm [Blaze](https://blazedev.xyz) a full-stack indie developer,
-I work on just about anything but for the past year i have been working on [edie ai](https://edie.blazedev.xyz).
+Hi i'm [Blaze](https://blazedev.co) a full-stack indie developer,
+I work on just about anything but for the past year i have been working on [edie ai](https://edie.blazedev.co).
 
 ---
 
@@ -38,13 +38,15 @@ I work on just about anything but for the past year i have been working on [edie
 <img align="left" alt="Raspberry pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="replit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
 <br />
-<div>
-  
-</div>
+
+
+---
 
 
 ### 🐙 curent projects
 
+- Discrupt, a data logging intuitive for discord to build ai models and to store all messages publicly
+- Ramsdorm, server utilitys to make your life easier with easy start up integration and a wide list of features with a easy set up for pre configured inctances
 - joni, joni is a edie bot for natural language generation and has learned and talks on discord
 - edie trade 5.0, the fith iteration of the edie tading ai
 - edie home assistant, with the joni natural language model and the edie-cam computer vision model
