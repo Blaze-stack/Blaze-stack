@@ -7,14 +7,19 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 - Edie: experiments around chat, language tooling, personal assistants, and model workflows.
 - Discrupt: a privacy-first rebuild for consent-based community data exports and dataset prep.
 - Defensive utilities: small tools for password hygiene, proxy health checks, local log review, and safer security education.
-- Decentralized communication: local-first messaging and signed data experiments.
+- Decentralized systems: signed compute offers, public hash-chain logs, local-first messaging, and deployable coordination tools.
 
 ## Showcase Rebuilds
 
 | Project | Status | Direction |
 | --- | --- | --- |
+| [EdgePower Node](https://github.com/Blaze-stack/edgepower-node) | New | Privacy-preserving edge compute node that benchmarks safely and signs capacity offers. |
 | [EdgePower Ledger](https://github.com/Blaze-stack/edgepower-ledger) | New | Signed local-first ledger for machines advertising compute capacity. |
 | [Public Chainlog](https://github.com/Blaze-stack/public-chainlog) | New | Append-only hash-chained transparency log for public events. |
+| [Chainlog Dashboard](https://github.com/Blaze-stack/chainlog-dashboard) | New | Static viewer for inspecting and verifying public JSONL chain logs. |
+| [Datacenter Chain Sim](https://github.com/Blaze-stack/datacenter-chain-sim) | New | Decentralized compute scheduler simulation with auditable hash-chained receipts. |
+| [Market Brief Bot](https://github.com/Blaze-stack/market-brief-bot) | New | Offline market brief generator for watchlists, CSV candles, and research notes. |
+| [Bot Forge](https://github.com/Blaze-stack/bot-forge) | New | Safe scaffold generator for local and official-platform automation bots. |
 | [Signal Lab](https://github.com/Blaze-stack/signal-lab) | New | Educational CSV-based trading-signal research CLI. |
 | [Machine Watch](https://github.com/Blaze-stack/machine-watch) | New | Local machine health and inventory reports. |
 | [Mesh Note](https://github.com/Blaze-stack/mesh-note) | New | Local-first signed message packets. |
