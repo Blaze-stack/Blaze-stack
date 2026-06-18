@@ -23,16 +23,20 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Chainlog Search API](https://github.com/Blaze-stack/chainlog-search-api) | New | Mirror and search service for Chainlog events with SQLite FTS/fallback search. |
 | [Chainlog Pages Publisher](https://github.com/Blaze-stack/chainlog-pages-publisher) | New | Static GitHub Pages publisher for Chainlog feeds and transparency snapshots. |
 | [Chainlog Anchor](https://github.com/Blaze-stack/chainlog-anchor) | New | Signed Chainlog head anchoring and local anchor verification CLI. |
+| [Chainlog Alert Router](https://github.com/Blaze-stack/chainlog-alert-router) | New | Deployable rule engine for routing deduped Chainlog, search, and status alerts to Discord or Chainlog. |
 | [Chainlog Webhook Relay](https://github.com/Blaze-stack/chainlog-webhook-relay) | New | Deployable webhook relay that verifies external events and writes them into Chainlog. |
+| [Chainlog GitHub Action](https://github.com/Blaze-stack/chainlog-github-action) | New | GitHub Action for publishing workflow evidence, deployment notes, and release events into Chainlog. |
 | [Proofpack Chainlog](https://github.com/Blaze-stack/proofpack-chainlog) | New | File and folder proof notarization CLI with signed manifests and Chainlog publishing. |
 | [Discord Chainlog Bot](https://github.com/Blaze-stack/discord-chainlog-bot) | New | Official Discord slash-command bot for approved users to publish Chainlog events. |
 | [Ops Discord Control Bot](https://github.com/Blaze-stack/ops-discord-control-bot) | New | Official Discord ops bot for Chainlog, EdgePower, status checks, and Mesh Relay commands. |
 | [Ops Briefing AI](https://github.com/Blaze-stack/ops-briefing-ai) | New | Ops briefing service and CLI with local summaries plus optional provider-neutral LLM HTTP support. |
 | [Mesh Relay](https://github.com/Blaze-stack/mesh-relay) | New | HTTP/WebSocket message relay with per-room append-only hash-chained logs. |
+| [Mesh Relay Client](https://github.com/Blaze-stack/mesh-relay-client) | New | CLI client for posting, reading, verifying, and listening to Mesh Relay rooms. |
 | [Public Ops Status](https://github.com/Blaze-stack/public-ops-status) | New | Status page and JSON API for monitoring public tools and service endpoints. |
 | [Market Sentinel Bot](https://github.com/Blaze-stack/market-sentinel-bot) | New | Market alert and paper-trading bot with Discord and Chainlog outputs. |
 | [EdgePower Coordinator](https://github.com/Blaze-stack/edgepower-coordinator) | New | FastAPI coordinator for safe allowlisted distributed edge-compute jobs. |
 | [EdgePower Worker](https://github.com/Blaze-stack/edgepower-worker) | New | Service worker that polls a coordinator and runs only built-in safe jobs. |
+| [EdgePower Task Pack](https://github.com/Blaze-stack/edgepower-task-pack) | New | Allowlisted task handlers and schemas for real EdgePower worker jobs. |
 | [EdgePower Node](https://github.com/Blaze-stack/edgepower-node) | New | Privacy-preserving edge compute node that benchmarks safely and signs capacity offers. |
 | [EdgePower Ledger](https://github.com/Blaze-stack/edgepower-ledger) | New | Signed local-first ledger for machines advertising compute capacity. |
 | [Public Chainlog](https://github.com/Blaze-stack/public-chainlog) | New | Append-only hash-chained transparency log for public events. |
