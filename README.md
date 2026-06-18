@@ -33,6 +33,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Proofpack Chainlog](https://github.com/Blaze-stack/proofpack-chainlog) | New | File and folder proof notarization CLI with signed manifests and Chainlog publishing. |
 | [Discord Chainlog Bot](https://github.com/Blaze-stack/discord-chainlog-bot) | New | Official Discord slash-command bot for approved users to publish Chainlog events. |
 | [Ops Discord Control Bot](https://github.com/Blaze-stack/ops-discord-control-bot) | New | Official Discord ops bot for Chainlog, EdgePower, status checks, and Mesh Relay commands. |
+| [Discord Ops Brief Bot](https://github.com/Blaze-stack/discord-ops-brief-bot) | New | Official Discord bot and webhook helper for deterministic operations briefings. |
 | [Ops Briefing AI](https://github.com/Blaze-stack/ops-briefing-ai) | New | Ops briefing service and CLI with local summaries plus optional provider-neutral LLM HTTP support. |
 | [Chainmesh TUI](https://github.com/Blaze-stack/chainmesh-tui) | New | Terminal dashboard/client for Chainlog and Mesh Relay events, messages, filters, and verification. |
 | [Mesh Relay](https://github.com/Blaze-stack/mesh-relay) | New | HTTP/WebSocket message relay with per-room append-only hash-chained logs. |
@@ -44,6 +45,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [EdgePower Worker](https://github.com/Blaze-stack/edgepower-worker) | New | Service worker that polls a coordinator and runs only built-in safe jobs. |
 | [EdgePower Docker Worker](https://github.com/Blaze-stack/edgepower-docker-worker) | New | Deny-by-default Docker execution adapter for allowlisted EdgePower compute jobs. |
 | [EdgePower Task Pack](https://github.com/Blaze-stack/edgepower-task-pack) | New | Allowlisted task handlers and schemas for real EdgePower worker jobs. |
+| [EdgePower Capacity Oracle](https://github.com/Blaze-stack/edgepower-capacity-oracle) | New | Capacity scoring and snapshot service for EdgePower marketplaces and coordinator APIs. |
 | [EdgePower Node](https://github.com/Blaze-stack/edgepower-node) | New | Privacy-preserving edge compute node that benchmarks safely and signs capacity offers. |
 | [EdgePower Ledger](https://github.com/Blaze-stack/edgepower-ledger) | New | Signed local-first ledger for machines advertising compute capacity. |
 | [Public Chainlog](https://github.com/Blaze-stack/public-chainlog) | New | Append-only hash-chained transparency log for public events. |
