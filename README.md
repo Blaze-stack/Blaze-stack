@@ -43,6 +43,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Mesh Relay Client](https://github.com/Blaze-stack/mesh-relay-client) | New | CLI client for posting, reading, verifying, and listening to Mesh Relay rooms. |
 | [Mesh Room Bridge](https://github.com/Blaze-stack/mesh-room-bridge) | New | Bridge public-safe Mesh Relay room activity into Chainlog, Discord, and JSONL outputs. |
 | [Public Ops Status](https://github.com/Blaze-stack/public-ops-status) | New | Status page and JSON API for monitoring public tools and service endpoints. |
+| [Public Status Widgets](https://github.com/Blaze-stack/public-status-widgets) | New | Static embeddable widgets and README badges for Public Ops Status and Chainlog monitor data. |
 | [Market Sentinel Bot](https://github.com/Blaze-stack/market-sentinel-bot) | New | Market alert and paper-trading bot with Discord and Chainlog outputs. |
 | [Market Data Chain](https://github.com/Blaze-stack/market-data-chain) | New | Market data logger and alert service with SQLite history plus Chainlog and Discord outputs. |
 | [EdgePower Coordinator](https://github.com/Blaze-stack/edgepower-coordinator) | New | FastAPI coordinator for safe allowlisted distributed edge-compute jobs. |
