@@ -26,8 +26,10 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Chainlog Anchor](https://github.com/Blaze-stack/chainlog-anchor) | New | Signed Chainlog head anchoring and local anchor verification CLI. |
 | [Chainlog Alert Router](https://github.com/Blaze-stack/chainlog-alert-router) | New | Deployable rule engine for routing deduped Chainlog, search, and status alerts to Discord or Chainlog. |
 | [Chainlog Monitor Agent](https://github.com/Blaze-stack/chainlog-monitor-agent) | New | Uptime and synthetic monitoring agent that emits public-safe Chainlog and Discord status events. |
+| [Chainlog Redactor Agent](https://github.com/Blaze-stack/chainlog-redactor-agent) | New | Log tailer that redacts secrets before publishing public-safe Chainlog, Discord, or JSONL events. |
 | [Chainlog Webhook Relay](https://github.com/Blaze-stack/chainlog-webhook-relay) | New | Deployable webhook relay that verifies external events and writes them into Chainlog. |
 | [Chainlog GitHub Action](https://github.com/Blaze-stack/chainlog-github-action) | New | GitHub Action for publishing workflow evidence, deployment notes, and release events into Chainlog. |
+| [Repo Pulse Chainlog](https://github.com/Blaze-stack/repo-pulse-chainlog) | New | Read-only GitHub repo fleet auditor with SQLite history plus Chainlog and Discord pulse events. |
 | [Proofpack Chainlog](https://github.com/Blaze-stack/proofpack-chainlog) | New | File and folder proof notarization CLI with signed manifests and Chainlog publishing. |
 | [Discord Chainlog Bot](https://github.com/Blaze-stack/discord-chainlog-bot) | New | Official Discord slash-command bot for approved users to publish Chainlog events. |
 | [Ops Discord Control Bot](https://github.com/Blaze-stack/ops-discord-control-bot) | New | Official Discord ops bot for Chainlog, EdgePower, status checks, and Mesh Relay commands. |
