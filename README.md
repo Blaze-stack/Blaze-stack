@@ -41,6 +41,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Chainmesh TUI](https://github.com/Blaze-stack/chainmesh-tui) | New | Terminal dashboard/client for Chainlog and Mesh Relay events, messages, filters, and verification. |
 | [Mesh Relay](https://github.com/Blaze-stack/mesh-relay) | New | HTTP/WebSocket message relay with per-room append-only hash-chained logs. |
 | [Mesh Relay Client](https://github.com/Blaze-stack/mesh-relay-client) | New | CLI client for posting, reading, verifying, and listening to Mesh Relay rooms. |
+| [Mesh Room Bridge](https://github.com/Blaze-stack/mesh-room-bridge) | New | Bridge public-safe Mesh Relay room activity into Chainlog, Discord, and JSONL outputs. |
 | [Public Ops Status](https://github.com/Blaze-stack/public-ops-status) | New | Status page and JSON API for monitoring public tools and service endpoints. |
 | [Market Sentinel Bot](https://github.com/Blaze-stack/market-sentinel-bot) | New | Market alert and paper-trading bot with Discord and Chainlog outputs. |
 | [Market Data Chain](https://github.com/Blaze-stack/market-data-chain) | New | Market data logger and alert service with SQLite history plus Chainlog and Discord outputs. |
@@ -48,6 +49,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [EdgePower Worker](https://github.com/Blaze-stack/edgepower-worker) | New | Service worker that polls a coordinator and runs only built-in safe jobs. |
 | [EdgePower Docker Worker](https://github.com/Blaze-stack/edgepower-docker-worker) | New | Deny-by-default Docker execution adapter for allowlisted EdgePower compute jobs. |
 | [EdgePower Task Pack](https://github.com/Blaze-stack/edgepower-task-pack) | New | Allowlisted task handlers and schemas for real EdgePower worker jobs. |
+| [EdgePower Job Profiler](https://github.com/Blaze-stack/edgepower-job-profiler) | New | Local profiler and policy checker for allowlisted EdgePower task definitions. |
 | [EdgePower Capacity Oracle](https://github.com/Blaze-stack/edgepower-capacity-oracle) | New | Capacity scoring and snapshot service for EdgePower marketplaces and coordinator APIs. |
 | [EdgePower Node](https://github.com/Blaze-stack/edgepower-node) | New | Privacy-preserving edge compute node that benchmarks safely and signs capacity offers. |
 | [EdgePower Ledger](https://github.com/Blaze-stack/edgepower-ledger) | New | Signed local-first ledger for machines advertising compute capacity. |
