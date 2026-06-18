@@ -24,6 +24,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Chainlog Search API](https://github.com/Blaze-stack/chainlog-search-api) | New | Mirror and search service for Chainlog events with SQLite FTS/fallback search. |
 | [Chainlog Pages Publisher](https://github.com/Blaze-stack/chainlog-pages-publisher) | New | Static GitHub Pages publisher for Chainlog feeds and transparency snapshots. |
 | [Chainlog Anchor](https://github.com/Blaze-stack/chainlog-anchor) | New | Signed Chainlog head anchoring and local anchor verification CLI. |
+| [Chainlog Backup Archiver](https://github.com/Blaze-stack/chainlog-backup-archiver) | New | Backup, verify, sign, and prune Chainlog event snapshots as compressed archive bundles. |
 | [Chainlog Alert Router](https://github.com/Blaze-stack/chainlog-alert-router) | New | Deployable rule engine for routing deduped Chainlog, search, and status alerts to Discord or Chainlog. |
 | [Chainlog Monitor Agent](https://github.com/Blaze-stack/chainlog-monitor-agent) | New | Uptime and synthetic monitoring agent that emits public-safe Chainlog and Discord status events. |
 | [Chainlog Redactor Agent](https://github.com/Blaze-stack/chainlog-redactor-agent) | New | Log tailer that redacts secrets before publishing public-safe Chainlog, Discord, or JSONL events. |
