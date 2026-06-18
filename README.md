@@ -16,13 +16,18 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Blaze Ops Stack](https://github.com/Blaze-stack/blaze-ops-stack) | New | Docker Compose deployment companion for running the Chainlog, EdgePower, Mesh, and status services together. |
 | [EdgePower Admin UI](https://github.com/Blaze-stack/edgepower-admin-ui) | New | Browser control surface for EdgePower coordinator nodes, jobs, receipts, and audit events. |
 | [EdgePower CLI](https://github.com/Blaze-stack/edgepower-cli) | New | Operator CLI for creating jobs, inspecting results, and viewing coordinator events. |
+| [EdgePower Marketplace](https://github.com/Blaze-stack/edgepower-marketplace) | New | Marketplace registry API for capacity offers, job requests, and auditable matches. |
 | [Machine Fleet Agent](https://github.com/Blaze-stack/machine-fleet-agent) | New | Privacy-preserving machine health agent that publishes public-safe telemetry to Chainlog or JSON. |
 | [Chainlog Server](https://github.com/Blaze-stack/chainlog-server) | New | Deployable FastAPI public transparency log with verifiable hash-chained events. |
 | [Chainlog CLI](https://github.com/Blaze-stack/chainlog-cli) | New | Operator CLI for appending, listing, verifying, and exporting Chainlog events. |
+| [Chainlog Search API](https://github.com/Blaze-stack/chainlog-search-api) | New | Mirror and search service for Chainlog events with SQLite FTS/fallback search. |
+| [Chainlog Pages Publisher](https://github.com/Blaze-stack/chainlog-pages-publisher) | New | Static GitHub Pages publisher for Chainlog feeds and transparency snapshots. |
 | [Chainlog Anchor](https://github.com/Blaze-stack/chainlog-anchor) | New | Signed Chainlog head anchoring and local anchor verification CLI. |
 | [Chainlog Webhook Relay](https://github.com/Blaze-stack/chainlog-webhook-relay) | New | Deployable webhook relay that verifies external events and writes them into Chainlog. |
+| [Proofpack Chainlog](https://github.com/Blaze-stack/proofpack-chainlog) | New | File and folder proof notarization CLI with signed manifests and Chainlog publishing. |
 | [Discord Chainlog Bot](https://github.com/Blaze-stack/discord-chainlog-bot) | New | Official Discord slash-command bot for approved users to publish Chainlog events. |
 | [Ops Discord Control Bot](https://github.com/Blaze-stack/ops-discord-control-bot) | New | Official Discord ops bot for Chainlog, EdgePower, status checks, and Mesh Relay commands. |
+| [Ops Briefing AI](https://github.com/Blaze-stack/ops-briefing-ai) | New | Ops briefing service and CLI with local summaries plus optional provider-neutral LLM HTTP support. |
 | [Mesh Relay](https://github.com/Blaze-stack/mesh-relay) | New | HTTP/WebSocket message relay with per-room append-only hash-chained logs. |
 | [Public Ops Status](https://github.com/Blaze-stack/public-ops-status) | New | Status page and JSON API for monitoring public tools and service endpoints. |
 | [Market Sentinel Bot](https://github.com/Blaze-stack/market-sentinel-bot) | New | Market alert and paper-trading bot with Discord and Chainlog outputs. |
