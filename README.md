@@ -20,6 +20,7 @@ Hi, I'm Trenton Waters, a full-stack indie developer building AI tools, web apps
 | [Machine Fleet Agent](https://github.com/Blaze-stack/machine-fleet-agent) | New | Privacy-preserving machine health agent that publishes public-safe telemetry to Chainlog or JSON. |
 | [Chainlog Server](https://github.com/Blaze-stack/chainlog-server) | New | Deployable FastAPI public transparency log with verifiable hash-chained events. |
 | [Chainlog CLI](https://github.com/Blaze-stack/chainlog-cli) | New | Operator CLI for appending, listing, verifying, and exporting Chainlog events. |
+| [Chainlog Python SDK](https://github.com/Blaze-stack/chainlog-python-sdk) | New | Stdlib Python SDK and CLI for appending, reading, and verifying Chainlog events. |
 | [Chainlog Search API](https://github.com/Blaze-stack/chainlog-search-api) | New | Mirror and search service for Chainlog events with SQLite FTS/fallback search. |
 | [Chainlog Pages Publisher](https://github.com/Blaze-stack/chainlog-pages-publisher) | New | Static GitHub Pages publisher for Chainlog feeds and transparency snapshots. |
 | [Chainlog Anchor](https://github.com/Blaze-stack/chainlog-anchor) | New | Signed Chainlog head anchoring and local anchor verification CLI. |
